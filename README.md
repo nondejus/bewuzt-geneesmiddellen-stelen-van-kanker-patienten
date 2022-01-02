@@ -1,1 +1,10 @@
 # bewuzt-geneesmiddellen-stelen-van-kanker-patienten
+
+# zorgverzekering
+https://nl.wikipedia.org/wiki/Zorgverzekering_(Nederland)
+
+# diefstal
+https://nl.wikipedia.org/wiki/Diefstal
+
+# participatiewet
+https://nl.wikipedia.org/wiki/Participatiewet
